@@ -1,7 +1,7 @@
 # Spam-SMS-Detection
 
 ## Project Overview
-The **SMS Spam Detection** project involves the classification of SMS messages as either "Spam" or "Ham" (not spam). Using natural language processing (NLP) techniques, this project aims to identify and filter spam messages from legitimate ones. This implementation is demonstrated in a Jupyter Notebook (`SMS_Spam_Detection.ipynb`).
+The **SMS Spam Detection** project involves the classification of SMS messages as either "Spam" or "Ham" (not spam). Using natural language processing (NLP) techniques, this project aims to identify and filter spam messages from legitimate ones. This implementation is demonstrated in a Google Collab file (`SMS_Spam_Detection.ipynb`).
 
 ## Key Features
 - Preprocessing of SMS text data.
