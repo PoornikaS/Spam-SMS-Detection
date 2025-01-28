@@ -81,10 +81,9 @@ Contributions are welcome! If you have ideas for improving this project, feel fr
 This project is licensed under the MIT License. Feel free to use, modify, and distribute this project as needed.
 
 ## Acknowledgments
-- Dataset source (if any): Add a reference to the dataset source.
+- Dataset source : https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset/code
 - Tools and libraries: Scikit-learn, NLTK, Pandas, and others used.
 
 ---
 
-If you encounter any issues or have questions, please contact [your email/contact info].
 
